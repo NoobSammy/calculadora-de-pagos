@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/calculadora-de-pagos/static/css/main.b1e09717.css",
+    "main.js": "/calculadora-de-pagos/static/js/main.a361dc91.js",
+    "static/js/787.b1ea1b29.chunk.js": "/calculadora-de-pagos/static/js/787.b1ea1b29.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/calculadora-de-pagos/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/calculadora-de-pagos/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/calculadora-de-pagos/index.html",
+    "main.b1e09717.css.map": "/calculadora-de-pagos/static/css/main.b1e09717.css.map",
+    "main.a361dc91.js.map": "/calculadora-de-pagos/static/js/main.a361dc91.js.map",
+    "787.b1ea1b29.chunk.js.map": "/calculadora-de-pagos/static/js/787.b1ea1b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e09717.css",
+    "static/js/main.a361dc91.js"
+  ]
+}
